@@ -1,11 +1,9 @@
 body {
-  background-image: url("Sprinkles.jpg");
-  background-color: hsl(213, 85%, 92%);
-  background-blend-mode: overlay;
-  text-align: center;
+  background-image: url("sky.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed; 
+  text-align: center;
   font-family: Georgia, serif;
 }
 
@@ -14,16 +12,8 @@ html{
   width: 100%;
 }
 
-#myCanvas1 {
-  border: 1px solid black;
-  background-image: url("supermarket-interior-shelf_165488-3982.avif");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}
-
 #myCanvas2 {
-  border: 1px solid black;
+  border: 1px solid rgb(253, 253, 253);
   border-radius: 30px;
 }
 
